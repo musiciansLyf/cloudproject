@@ -1,55 +1,44 @@
-DEMO
-===========================
-
-########环境依赖
-node v0.10.28+
-reids ~
-
-###########部署步骤
-1. 添加系统环境变量
-    export $PORTAL_VERSION="production" // production, test, dev
-
-
-2. npm install  //安装node运行环境
-
-3. gulp build   //前端编译
-
-4. 启动两个配置(已forever为例)
-    eg: forever start app-service.js
-        forever start logger-service.js
-
-
-###########目录结构描述
-├── Readme.md                   // help
-├── app                         // 应用
-├── config                      // 配置
-│   ├── default.json
-│   ├── dev.json                // 开发环境
-│   ├── experiment.json         // 实验
-│   ├── index.js                // 配置控制
-│   ├── local.json              // 本地
-│   ├── production.json         // 生产环境
-│   └── test.json               // 测试环境
-├── data
-├── doc                         // 文档
-├── environment
-├── gulpfile.js
-├── locales
-├── logger-service.js           // 启动日志配置
-├── node_modules
-├── package.json
-├── app-service.js              // 启动应用配置
-├── static                      // web静态资源加载
-│   └── initjson
-│       └── config.js       // 提供给前端的配置
-├── test
-├── test-service.js
-└── tools
-
-
-
-###########V1.0.0 版本内容更新
-1. 新功能   aaaaaaaaa
-2. 新功能   bbbbbbbbb
-3. 新功能   ccccccccc
-4. 新功能   ddddddddd
+Markdown 语法速查表  
+1 标题与文字格式  
+标题  
+# 这是 H1 <一级标题>  
+## 这是 H2 <二级标题>  
+###### 这是 H6 <六级标题>  
+文字格式  
+**这是文字粗体格式**  
+*这是文字斜体格式*  
+~~在文字上添加删除线~~  
+2 列表  
+无序列表  
+* 项目1  
+* 项目2  
+* 项目3  
+有序列表  
+1. 项目1  
+2. 项目2  
+3. 项目3  
+   * 项目1  
+   * 项目2  
+3 其它  
+图片  
+![图片名称](http://gitcafe.com/image.png)  
+链接  
+[链接名称](http://gitcafe.com)  
+引用  
+> 第一行引用文字  
+> 第二行引用文字  
+水平线  
+***  
+代码  
+`<hello world>`  
+代码块高亮  
+```ruby  
+  def add(a, b)  
+    return a + b  
+  end  
+```  
+表格  
+  表头  | 表头  
+  ------------- | -------------  
+ 单元格内容  | 单元格内容  
+ 单元格内容l  | 单元格内容  
