@@ -1,0 +1,19 @@
+
+Usquid:S26294"7Use the built-in formatting to construct this argument.(îý§Ù8á•»š¬-
+Zsquid:S2629="7Use the built-in formatting to construct this argument.(ÅË–Ñùÿÿÿÿ8õÍ’ž¬-
+Zsquid:S2629Q"7Use the built-in formatting to construct this argument.(ôË«¥ûÿÿÿÿ8ÌÌ¦ž¬-
+V
+squid:S106i"9Replace this use of System.out or System.err by a logger.(×ë²…8½Ù›¬-
+Fsquid:S1148]"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8á•»š¬-
+Xsquid:S2387'";"log" is the name of a field in "DefaultConsumerConfigure".(£ÄÈ8á•»š¬-
+Xsquid:S1141M"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¬Ë˜›¬-
+dsquid:S3457E"AFormat specifiers should be used instead of string concatenation.(¦£ëÃúÿÿÿÿ8á•»š¬-
+dsquid:S3457="AFormat specifiers should be used instead of string concatenation.(ÅË–Ñùÿÿÿÿ8õÍ’ž¬-
+Osquid:S1135"2Complete the task associated to this TODO comment.(£°§\8á•»š¬-
+Fsquid:S1148S"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¬Ë˜›¬-
+dsquid:S3457Q"AFormat specifiers should be used instead of string concatenation.(ôË«¥ûÿÿÿÿ8êã«›¬-
+squid:S2629E"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¦£ëÃúÿÿÿÿ8á•»š¬-
+Fsquid:S1148m"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8½Ù›¬-
+dsquid:S3457f"AFormat specifiers should be used instead of string concatenation.(€³÷þÿÿÿÿ8‘Îñ›¬-
+[squid:S1155B">Use isEmpty() to check whether the collection is empty or not.(‘®–J8á•»š¬-
+_squid:S34574"AFormat specifiers should be used instead of string concatenation.(îý§Ù8á•»š¬-

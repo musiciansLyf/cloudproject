@@ -1,0 +1,7 @@
+
+=squid:S1700" Rename field "producerConfigure"(ßŸô&8ÞÁÑÑ«-
+usquid:S3305"XInject this field value directly into "defaultMQProducer", the only method that uses it.(ßŸô&8óìÓÑ«-
+Hsquid:S1135"2Complete the task associated to this TODO comment.(£°§\
+Gsquid:S2629"$Invoke method(s) only conditionally.(ïÍ«Þûÿÿÿÿ8¯©ÕÒ«-
+isquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(µœ¯¹8»éÙÔ«-
+hsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ûõï!8»éÙÔ«-

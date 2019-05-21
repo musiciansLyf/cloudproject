@@ -1,0 +1,10 @@
+
+isquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(×ãŒè8ÂŸ€ž¬-
+¤squid:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§±µ¹ÿÿÿÿÿ8¾‚ÌÐ«-
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(É¼ãÐþÿÿÿÿ8’ËåÐ«-
+Hsquid:S1135"2Complete the task associated to this TODO comment.(£°§\
+Usquid:S2629>"7Use the built-in formatting to construct this argument.(¯Ÿî¸8ƒÛ…ž¬-
+[squid:S1155E">Use isEmpty() to check whether the collection is empty or not.(ÿ™©18—Úˆž¬-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ÚÛ¤
+Fsquid:S1148R"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ñüäÐ«-
+_squid:S3457>"AFormat specifiers should be used instead of string concatenation.(¯Ÿî¸8ƒÛ…ž¬-

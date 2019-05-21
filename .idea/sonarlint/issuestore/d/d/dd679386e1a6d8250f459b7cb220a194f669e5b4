@@ -1,0 +1,11 @@
+
+œ%squid:RedundantThrowsDeclarationCheck7"fRemove the declaration of thrown exception 'feign.codec.EncodeException' which is a runtime exception.(€ˆ®îıÿÿÿÿ
+—%squid:RedundantThrowsDeclarationCheckK"fRemove the declaration of thrown exception 'feign.codec.EncodeException' which is a runtime exception.(¦¬¸¿
+˜%squid:RedundantThrowsDeclarationCheck£"fRemove the declaration of thrown exception 'feign.codec.EncodeException' which is a runtime exception.(„¬õÉ
+œ%squid:RedundantThrowsDeclarationCheckú"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(Ù¾İ
+ssquid:S1192s"WDefine a constant instead of duplicating this literal "Cannot encode request." 3 times.(ä‘´éúÿÿÿÿ
+Csquid:S2160é"+Override the "equals" method in this class.(ë”•²
+Hsquid:S1135"2Complete the task associated to this TODO comment.(£°§\
+squid:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(âğíøøÿÿÿÿ
+@squid:S1185ú"(Remove this method to simply inherit it.(Ù¾İ
+jsquid:UselessImportCheck"ARemove this unused import 'org.apache.commons.lang3.StringUtils'.(Øœ¼ºúÿÿÿÿ

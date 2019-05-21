@@ -1,0 +1,10 @@
+
+isquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ÈÊé×8Ù‹§™¬-
+Hsquid:S1135!"2Complete the task associated to this TODO comment.(£°§\
+V
+squid:S106^"9Replace this use of System.out or System.err by a logger.(Öç™¢8Ù‹§™¬-
+[squid:S1155d">Use isEmpty() to check whether the collection is empty or not.(Ã¾™%8Ù‹§™¬-
+_squid:S3457e"AFormat specifiers should be used instead of string concatenation.(æ—×©8Äê®¬-
+Î%squid:RedundantThrowsDeclarationCheck]"Remove the declaration of thrown exception 'com.alibaba.rocketmq.client.exception.MQBrokerException', as it cannot be thrown from method's body.(ÕóÕ¶şÿÿÿÿ8åã¯¬-
+gsquid:UselessImportCheck"<Remove this unused import 'com.example.service.FileService'.(³Íğ8Ù‹§™¬-
+lsquid:UselessImportCheck"<Remove this unused import 'com.example.service.MailService'.(ÄÉøùÿÿÿÿ8Ù‹§™¬-
