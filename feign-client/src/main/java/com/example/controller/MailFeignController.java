@@ -9,6 +9,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import java.io.File;
 import java.util.List;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @ClassName liyufeng
@@ -26,6 +27,8 @@ public class MailFeignController {
 
     @Autowired
     private FileClient fileClient;
+
+    //ConcurrentHashMap concurrentHashMap;
 
     @RequestMapping(value="/mail", method= RequestMethod.POST)
     public String sendMail(String sendTo,String titel, String content,@RequestParam("file")MultipartFile[] file, Boolean isHtml){

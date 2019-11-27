@@ -1,16 +1,16 @@
 
-isquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(ß‘©ë8ùí¿™¬-
-Vsquid:UselessImportCheck"-Remove this unused import 'javafx.util.Pair'.(û­ûºüÿÿÿÿ
-Isquid:S1168D"+Return an empty collection instead of null.(¥¹ï8Èœ±™¬-
-Fsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Èœ±™¬-
-Osquid:S1135"2Complete the task associated to this TODO comment.(£°§\8Èœ±™¬-
+_squid:S3457-"AFormat specifiers should be used instead of string concatenation.(Û¢¯ú8Ûßªœ¬-
+|squid:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊûÄÚùÿÿÿÿ8¥ø³™¬-
 msquid:S2674^"JCheck the return value of the "read" call to see how many bytes were read.(€Ö¨ÿÿÿÿÿ8«¡¾™¬-
-dsquid:S34575"AFormat specifiers should be used instead of string concatenation.(Éƒà¶ıÿÿÿÿ8Õè«œ¬-
+Fsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Èœ±™¬-
+Isquid:S1168D"+Return an empty collection instead of null.(¥¹ï8Èœ±™¬-
+msquid:S30273"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(…„şÿÿÿÿ8Èœ±™¬-
 Fsquid:S1148b"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥ø³™¬-
-Msquid:S2093Q"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8«¡¾™¬-
 Fsquid:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥ø³™¬-
+Msquid:S2093Q"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8«¡¾™¬-
 [
 squid:S106?"9Replace this use of System.out or System.err by a logger.(ñ·¯üÿÿÿÿ8Èœ±™¬-
-msquid:S30273"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(…„şÿÿÿÿ8Èœ±™¬-
-|squid:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊûÄÚùÿÿÿÿ8¥ø³™¬-
-_squid:S3457-"AFormat specifiers should be used instead of string concatenation.(Û¢¯ú8Ûßªœ¬-
+isquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(ß‘©ë8ùí¿™¬-
+dsquid:S34575"AFormat specifiers should be used instead of string concatenation.(Éƒà¶ıÿÿÿÿ8Õè«œ¬-
+Osquid:S1135"2Complete the task associated to this TODO comment.(£°§\8Èœ±™¬-
+Vsquid:UselessImportCheck"-Remove this unused import 'javafx.util.Pair'.(û­ûºüÿÿÿÿ

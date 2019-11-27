@@ -16,7 +16,7 @@ import java.util.List;
  * @Date 2019/5/16 14:18
  * @Version 1.0
  **/
-@FeignClient("file-service")
+@FeignClient(value = "file-service")
 public interface FileClient {
     @RequestLine(value = "POST /file")
     List<MyFile> upfile(@Param("file") MultipartFile[] file);

@@ -1,8 +1,8 @@
 
-dsquid:S3457""AFormat specifiers should be used instead of string concatenation.(ï©òÚûÿÿÿÿ8“ïËÔ«-
-Osquid:S1135"2Complete the task associated to this TODO comment.(£°§\8“ïËÔ«-
-isquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(üÑÓ8“ïËÔ«-
 dsquid:S3457!"AFormat specifiers should be used instead of string concatenation.(÷Æøæÿÿÿÿÿ8Á±ÏË«-
 squid:S2629""\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ï©òÚûÿÿÿÿ8“ïËÔ«-
+dsquid:S3457""AFormat specifiers should be used instead of string concatenation.(ï©òÚûÿÿÿÿ8“ïËÔ«-
+Osquid:S1135"2Complete the task associated to this TODO comment.(£°§\8“ïËÔ«-
 •squid:UselessImportCheck"eRemove this unused import 'com.alibaba.rocketmq.client.consumer.listener.ConsumeConcurrentlyContext'.(ØÌõ¡úÿÿÿÿ8ó©Õ›¬-
+isquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(üÑÓ8“ïËÔ«-
 Zsquid:S2629!"7Use the built-in formatting to construct this argument.(÷Æøæÿÿÿÿÿ8Á±ÏË«-
